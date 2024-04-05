@@ -1,0 +1,841 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:Helvetica,Arial, sans-serif; /* font Titillium web  //// font-size:64 */
+}
+
+/*********************************************** Start header*/
+.header{
+    width:100%;
+    Height: 765px;
+    background-color: #fff;
+    background:linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("/assest/image/ground.jpg");
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: auto;
+    padding-top:10px;
+}
+/*********************************************** start Navbar************/
+
+.nabvar{
+    width:100%;
+    height:75px;
+    margin:auto;
+}
+ul{
+    float:left;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.ul li{
+    list-style:none;
+    font-size: 16px;
+}ul li a{
+    text-decoration:none;
+    color:white!important;
+    font-family: Helvetica,Arial, sans-serif;
+    font-weight:bolder!important;
+    transition: 0.4s ease-in-out;
+    display:block;
+}
+ ul li a:hover{
+    color: orange !important;;
+ }
+
+ .dropbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: orange;
+    color:white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white!important;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {color: #000!important;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #3e8e41;}
+ /*************************************************************End Navbar*/
+ 
+  /*************************************************************Start header-center-contant*/
+
+  .header-center-Contant{
+   width: 100%;
+   height: auto;
+  }
+ .name-h1{
+    font-family:Helvetica,Arial, sans-serif;/* font Titillium web  //// font-size:64 */
+    font-size: 60px;
+    font-weight: 600;
+    color: orange;
+    margin-top: 70px;
+    margin-bottom: 30px;
+ }
+ .name p{
+    font-size: 20px;
+    font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+ }
+ 
+ .btn-ticket{
+    background-color: orange!important;
+    font-size: 16px!important;
+    padding: 18px 35px!important;
+    font-weight: bolder;
+
+ }
+ .btn-ticket:hover{
+    background-color: rgb(231, 150, 0)!important;
+    border: none!important;
+
+ }
+ .btn-ticket a{
+    text-decoration: none;
+ }
+ .btn-schedules{
+    background-color: #fff!important;
+    font-size: 16px!important;
+    padding: 18px 35px!important;
+    font-weight:600;
+ }
+ .btn-schedules:hover{
+    background-color: orange!important;
+    border: none!important;
+    color: white!important;
+ }
+ .btn-schedules a{
+    text-decoration: none;
+ }
+ .fa-icon p i{
+    color: orange!important;
+ }
+
+   /*************************************************************End header-center-contant*/
+
+ /*********************************************************** start header-bottom-content****/
+
+ .header-bottom-content{
+    background-color: black;
+    height: auto;
+    /* padding: 20px 100px; */
+ }
+ .header-bottom-content a{
+    font-weight: 500;
+    text-decoration: none;
+    color: white;
+    font-size: 18px!important;
+    font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+    margin-bottom: 20px;
+ }
+ .header-bottom-content a:hover{
+    color: orange;
+ }
+ .header-bottom-content div p{
+   border-top: 2px solid orange;
+   border-radius: 3px;
+   margin-right: 24px;
+   padding-top: 22px;
+ }
+
+ 
+ 
+  /*********************************************************** End header-bottom-content****/
+
+  /********************************************************** Strat Our-Responsive*********/
+  .Our-Responsive{
+   width: 100%;
+   height: auto;
+  }
+  
+   .team img{
+      margin-top: 40px;
+      margin-bottom: 40px!important;
+  }
+  .team h3{
+   color:orange;
+   font-size: 60px;
+   text-align: center;
+   margin-top: 40px;
+  }
+  .team{
+   border-bottom: 1px dashed gray;
+  }
+
+  /********************************************************** End Our-Responsive*********/
+
+  /************************************************************ Start our-Responsive-contant****/
+  .our-Responsive-contant{
+   width: 100%;
+   height: auto;
+   margin-top: 80px;
+  }
+  .game-image{
+   display: flex;
+   padding: 20px;
+  }
+  .game-image img{
+   width: 100% !important;
+   padding: 5px;
+   border-radius: 20px !important;
+  }
+  .game-content{
+   padding-left: 50px;
+  }
+ .game-content h2{
+   padding-top: 20px;
+   color: orange;
+   font-size: 40px;
+   font-weight: 600;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+ }
+ .game-content p{
+   font-size: 18px;
+   padding-top: 50px;
+   padding-left: 20px;
+   color: #6c6c6c;
+ }
+ .game-content i{
+   margin-top: 10px;
+   color: white;
+   font-size: 20px;
+   background-color: orange;
+   border-radius: 100%;
+   padding: 20px;
+   margin-right: 30px;
+ }
+ .game-content span{
+   color: #3A3A3A;
+   font-size: 26px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   font-weight: 600;
+
+ }
+ .game-content div p{
+ color: #3c3c3c;
+ font-size: 18px;
+ padding-top: 0px !important;
+ padding-left: 100px !important;
+ font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+ }
+
+
+
+ /************************************************************ End our-Responsive-contant****/
+
+  /************************************************************ Start our-Responsive-contant2****/
+ .sec2{
+   padding-left: 88px;
+ }
+ .sec p{
+   font-size: 18px!important;
+ }
+ .ground-img {
+   display:flex;
+   width: 85%;
+ }
+ .ground-img img{
+   border-radius: 20px;
+   padding-right: 10px;
+   width: 260px;
+   height: 250px;
+ }
+ .ground-img2 img{
+   border-radius: 20px;
+   padding-top: 10px;
+   width: 520px;
+   height: 260px;
+ }
+ .sec h2{
+   color: orange;
+   font-size: 48px;
+   font-weight: 600;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+ }
+ .sec p{
+   font-size: 21px;
+   color: #6c6c6c;
+ }
+ .sec i{
+   margin-top: 10px;
+   color: white;
+   font-size: 30px;
+   background-color: orange;
+   border-radius: 100%;
+   padding: 20px;
+   margin-right: 30px;
+ }
+ .sec span{
+   color: #3A3A3A;
+   font-size: 26px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   font-weight: 600;
+
+ }
+ .sec div p{
+ color: #3c3c3c;
+ font-size: 18px;
+ font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+ margin-left: 100px;
+ }
+
+  /************************************************************ End our-Responsive-contant2****/
+
+  /************************************************************ Start Match higlight****/
+  .match{
+   margin-top: 170px;
+  }
+ .match h2{
+   color: #3A3A3A;
+   font-size: 40px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   font-weight: 600;
+   margin-bottom: 80px;
+ }
+ .match div img{
+   border-radius: 15px;
+ }
+
+  /************************************************************ End Match higlight****/
+
+  /************************************************************ Start Player****/
+  .player-img{
+   width: 300px;
+   height: 400px;
+   background-image: linear-gradient(190deg, #447d06 20%, #f0a30a 90%);
+   border-radius: 20px;
+   margin-right:1rem;
+ }
+ .player h2{
+   color: #3A3A3A;
+   font-size: 40px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   font-weight: 600;
+   margin-bottom: 80px;
+   margin-top: 4rem;
+ }
+ 
+  /************************************************************ End Player****/
+
+  /************************************************************ Start FOOTBALL NEWS****/
+  .news{
+   margin-top: 100px;
+  }
+  
+ .news h2{
+   color: #3A3A3A;
+   font-size: 40px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   font-weight: 600;
+   margin-bottom: 80px;
+  }
+  .new-content img{
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+  }
+.new-content1 a{
+   font-weight: 600;
+   text-decoration: none;
+   color:#fff;
+   font-size: 26px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+}
+.new-content1 a:hover{
+   color: orange;
+}
+.date p{
+   background-color: white;
+   color: #37003c;
+   font-weight: 700;
+   font-size: 18px;
+   padding:10px;
+   border-radius: 10px;
+}
+.date1 p{
+   background-color: orange;
+   color: white;
+   font-weight: 700;
+   font-size: 18px;
+   padding:10px;
+   border-radius: 10px;
+ }
+ .date1 p:hover{
+   background-color:#e29700;
+   color: white;
+ }
+ .new-content1{
+   padding-right: 30px;
+   padding-top: 30px;
+   padding-left: 30px;
+   max-width: 525px;
+   min-height: 220px;
+   background-color: #37003c;
+   position: relative;
+ }
+ .new-content1 span p{
+   display: inline;
+ }
+ .newsec{
+   margin-left: -20px;
+ }
+.newsimg img{
+   border-radius: 15px;
+   width: 300px;
+   height: 200px;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   margin-bottom: 20px;
+   object-fit: cover;
+ }
+.newsimg a{
+   letter-spacing: 1px;
+   line-height: 1.5;
+   text-decoration: none;
+   color: #3A3A3A;
+   font-size: 20px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+}
+.newsimg a:hover{
+   color:orange;
+}
+.newspan p{
+   background-color: #37003c;
+   color: white;
+   font-weight: 700;
+   font-size: 18px;
+   padding:10px;
+   border-radius: 10px;
+}
+ .newspan1 p{
+   background-color: orange;
+   color: white;
+   font-weight: 300;
+   font-size: 18px;
+   padding:10px;
+   border-radius: 10px;
+ }
+ .newspan1 p:hover{
+   background-color:#e29700;
+   color: white;
+ }
+ 
+ .newsimg span p{
+   display: inline;
+   line-height: 1;
+ }
+ .newsthree{
+   margin-top: 80px;
+ }
+
+   /************************************************************ END FOOTBALL NEWS****/
+
+   /************************************************************ start buy ticket****/
+   .buy-ticket{
+      margin-top: 100px;
+   }
+   .buy-ticket{
+      background: #37003c;
+      width: 100%;
+      height: auto;
+      border-radius: 20px;
+   }
+   .buy-ticket div h2{
+      font-weight: 700;
+      color:white;
+      font-size: 64px;
+      font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   }
+   .ticket-ptag{
+      padding: 20px 0px;
+      color: #fff;
+      font-size: 18px;
+      font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   }
+   .ticket-ptag2{
+      padding-bottom: 15px;
+      color:#fff;
+      font-size: 18px;
+      font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   }
+   .ticket-ptag2 p i{
+      margin-right: 15px;
+   }
+   .buy-ticket-img{
+      margin-left: 0;
+      padding-top: 60px;
+      display:flex;
+      position: relative;
+   }
+   .buyticket{
+      padding: 40px 70px;
+   }
+   .bestman1{
+      position: absolute;
+      bottom: 0;
+      left:0px;
+   }
+   .bestman2{
+      position: absolute;
+      bottom: 0;
+      left:205px;
+   }
+   .bestman3{
+      position: absolute;
+      bottom: 0;
+      left:296px;
+   }
+   
+   /************************************************************ End buy ticket****/
+
+
+/****************************************************  Start Footer *********/
+
+footer{
+   width: 100%;
+}
+.footer-content{
+   margin-top: 100px;
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+.f-foot h4{
+   color: #3A3A3A;
+   font-size: 26px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   font-weight: 600;
+}
+.f-foot a{
+   margin-top: 30px;
+   display: block;
+   color: #6c6c6c;
+   line-height: 1em;
+   font-size: 18px;
+   cursor: pointer;
+   transition: 0.3s ease;
+}
+.f-foot p{
+   margin-top: 30px;
+   font-size: 20px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   line-height: 30px;
+   font-weight: 400;
+}
+.f-foot i{
+   color: orange;
+   padding-right: 10px;
+   font-size: 14px;
+}
+
+.f-foot a:hover{
+   color: #37003c!important;
+}
+.app{
+   display:flex;
+}
+/****************************************************  END Footer *********/
+
+/****************************************************  Start Copyright *********/
+
+.copyright{
+   padding: 15px;
+   margin-top: 60px;
+   padding-left: 80px;
+   width: 100%;
+   height:auto;
+   background-color: orange;
+   border-bottom-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+}
+.copyright a{
+   text-decoration: none;
+   font-weight: 700;
+   color: #fff;
+   font-size: 18px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   border-right: 1px solid white;
+   padding-right: 20px;
+   margin-left: 9px;
+}
+.copyright span{
+   color: white;
+   font-size: 18px;
+   font-weight: 700;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+}
+.copy-icon {
+   color: white;
+}
+.copy2{
+   float:right;
+   margin-right: 80px;
+}
+
+
+/****************************************************  END Copyright *********/
+
+/*******************************66666666666666666666666666666666666666666666666666****************/
+/******************************666666666666666666666666666666666666666666666************/
+/******************************66666666666666666666666666666666666666**************/
+/******************************666666666666666666666666666666666666***********/
+
+/************************************** start About Us ************************/
+/*********************************************** start Navbar************/
+.nabvar{
+   width:100%;
+   height:75px;
+   margin:auto;
+}
+.togger-icon{
+   color: black;
+   background-color: whitesmoke;
+}
+ul{
+   float:left;
+   display:flex;
+   justify-content: center;
+   align-items: center;
+}
+ul li{
+   list-style:none;
+   margin-left:50px;
+   font-size: 16px;
+}
+.about ul li a{
+   text-decoration:none;
+   color:#000!important;
+   font-family: Helvetica,Arial, sans-serif;
+   font-weight:bolder!important;
+   transition: 0.4s ease-in-out;
+   display:block;
+}
+ul li a:hover{
+   color: orange !important;;
+}
+
+.dropbtn {
+   background-color: #04AA6D;
+   color: white;
+   padding: 16px;
+   font-size: 16px;
+   border: none;
+ }
+ 
+ .dropdown {
+   position: relative;
+   display: inline-block;
+ }
+ 
+ .dropdown-content {
+   display: none;
+   position: absolute;
+   background-color: orange;
+   color:white;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   z-index: 1;
+ }
+ 
+ .dropdown-content a {
+   color: white!important;
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+ }
+ 
+ .dropdown-content a:hover {color: #000!important;}
+ 
+ .dropdown:hover .dropdown-content {display: block;}
+ 
+ .dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+ /*********************************************** End Navbar************/
+ /************************************** End About Us ************************/
+
+ /***********^666666666666666666666666666666666666666666666668*/
+  /***********^666666666666666666666666666666666666666666666668*/
+ /***********^666666666666666666666666666666666666666666666668*/
+   /***********^666666666666666666666666666666666666666666666668*/
+
+   /******666666666666666666666666666666666 Start Event***6666666666666666666666666666666666666*/
+ /*********************************************** start header-Content************/
+.a-herder-c{
+   background-color: #37003c;
+   width: 100%;
+   height: auto;
+   padding: 60px;
+   margin-top: 20px;
+ }
+ .a-herder-c-img{
+   width: 171px;
+   height: 215px;
+   margin-left: 85px;
+ }
+ .a-size-default{
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web  //// font-size:64 */
+    font-size: 60px;
+    font-weight: 790;
+    color: orange;
+    margin-bottom: 30px;
+ }
+ .a-herder-c-p{
+   color: white;
+   font-size: 18px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   background-color:  #6c1c73;
+   border-radius: 25px;
+   padding-left: 25px;
+   padding-right: 25px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-weight: 550;
+ }
+ 
+ /*********************************************** start header-Content************/
+ .a-match{
+   margin-top: 40px!important;
+ }
+ .a-match h2{
+   margin-bottom: 30px!important;
+ }
+ .event-img {
+   margin-bottom: 30px!important;
+ }
+/*********************************************************** start Thank you**/
+.thank-png{
+   width:165px;
+   height: 83px;
+}
+.thank-headding{
+   color: #3A3A3A;
+   font-size: 40px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   text-align: center;
+   font-weight: 700;
+}
+.thankyou{
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+/*********************************************************** End Thank you**/
+/******666666666666666666666666666666666 End Event***6666666666666666666666666666666666666*/
+
+/***********^666666666666666666666666666666666666666666666668*/
+  /***********^666666666666666666666666666666666666666666666668*/
+ /***********^666666666666666666666666666666666666666666666668*/
+   /***********^666666666666666666666666666666666666666666666668*/
+
+ /******666666666666666666666666666666666 Start Contact us***6666666666666666666666666666666666666*/
+
+ /*********************************************************** Start from-content**/
+
+
+.from-span{
+   color: orange;
+   font-size: 18px;
+   font-weight: 700;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+}
+.from-p{
+   color: #6c6c6c;
+   font-size: 18px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+
+}
+.from-icon{
+   color: orange;
+   font-size: 20px;
+   background-color: #ddd;
+   border-radius: 100%;
+   padding: 20px;
+}
+.from-hedding{
+   color:#3A3A3A;
+   font-weight: 700;
+   font-size: 54px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   margin-bottom: 65px;
+}
+.from-content{
+   margin-top: 50px;
+}
+.from-a{
+   text-decoration: none;
+   color:#37003c;
+}
+.label-text{
+   color: black;
+   font-size: 25px;
+   font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   font-weight: 500;
+   margin-bottom: 20px;
+}
+.from-sel{
+   padding: 20px;
+   margin-bottom: 30px;
+}
+.from-input{
+   width: 100%;
+   padding: 20px;
+   border: 1px solid rgb(217, 216, 216);
+   border-radius: 8px;
+}
+.from-input2 input{
+   margin-bottom: 15px;
+}
+.from-p2{
+   color: #6c6c6c;
+   font-size: 20px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   margin-right: 25px;
+   margin-top: 21px;
+}
+.from-btn{
+   width: 100%;
+   text-align: center;
+   padding: 20px;
+   color: white;
+   background-color: orange;
+   border-radius: 8px;
+   border: none;
+   font-size: 18px;
+   font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+   margin-top: 30px;
+}
+.from-btn:hover{
+   background-color: rgb(255, 145, 0);
+   color: white;
+}
+ /*********************************************************** End from-content**/
+
+  /******666666666666666666666666666666666 End Contact us***6666666666666666666666666666666666666*/
+
+  

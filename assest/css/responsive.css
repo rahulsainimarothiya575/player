@@ -1,0 +1,963 @@
+@media(min-width:1200px) and (max-width:1399px){
+   /*--------*********************--------------------Start About Us________________ ***/
+   /******************************************************************************/
+
+   /****************** start navbar*****/
+   ul li{
+      list-style:none;
+      margin-left:25px;
+      font-size: 16px;
+   }
+   .nav-link{
+      padding-right: 0px!important;
+   }
+   /********************************** Start Buy Ticket*******/
+   .bestman{
+      width: 100% !important;
+      margin-top: 100px !important;
+   }
+ 
+   .bestman-img .bestman1{
+      margin-left: -89px;
+   }
+   .bestman-img .bestman2{
+      margin-left: -85px !important;
+      width: 50%;
+   }
+   .bestman-img .bestman3{
+      margin-left: -99px;
+   }
+   /********Start Footer******/
+   .app img{
+      width: 130px;
+   }
+   .a-herder-c-img{
+      margin-left: 0px !important;
+   }
+   .copyright{
+      margin-top: 40px!important;
+   } 
+   /*--------*********************-------------------- End About Us________________ ***/
+  /******************************************************************************/
+
+ /*______________________________________________________________________________________________________________*/
+
+
+   /*--------*********************--------------------Start Home________________ ***/
+   /******************************************************************************/
+ 
+   /***************************Start Header-center-Contant*********/
+   .name2 img{
+      width: 600px;
+      height: 680px;
+      margin-left: -20px!important;
+   }
+
+   /*************************** start Our-Responsive****/
+   .team img{
+      width: 114px;
+      height: 114px;
+   }
+   /*****************************************Start our-Responsive-contant************/
+
+   .game-content{
+      margin-left:0px!important;
+   }
+   .game-content h2{
+      color: orange;
+      font-size: 48px;
+      font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+    }
+    .game-content p{
+      font-size: 18px;
+      color: #6c6c6c;
+    }
+    /*****************************************Start our-Responsive-contant2************/
+    .sec-game{
+      margin-top: 85px!important;
+    }
+    .sec2{
+      margin-left: -75px!important;
+    }
+   /**************************** Start Player*****************/
+    .player-img{
+      width: 250px;
+      height: 350px;
+      background-image: linear-gradient(190deg, #447d06 20%, #f0a30a 90%);
+      border-radius: 20px;
+    }
+    /********************************** Start Buy Ticket*******/
+   .buy-ticket-img{
+      margin-left: -90px;
+   }
+    /****************************************Start FOOTBALL NEWS***/
+    .new-content img{
+      min-width: 524px;
+      min-height: 594px;
+     }
+     .newsimg img{
+      width: 250px;
+      height: 150px;
+    }
+
+}
+
+
+
+@media(min-width:992px) and (max-width:1199px){
+   /*--------*********************--------------------About Us________________ ***/
+   /******************************************************************************/
+
+      /****************** start navbar*****/
+   ul li{
+      list-style:none;
+      margin-left:10px;
+      font-size: 14px;
+   }
+    /********************************** Start Buy Ticket*******/
+   .buy-ticket-img .bestman1{
+      position: absolute;
+      top: -460px;
+      left: 5px;
+      width: 470px!important;
+      height: 520!important;
+
+    }
+   .buy-ticket-img .bestman2{
+      position: absolute;
+      top: -460px;
+      left: 305px;
+      width: 355!important;
+      height: 520!important;
+
+   }
+   .buy-ticket-img .bestman3{
+      position: absolute;
+      top: -460px;
+      left: 500px;
+      width: 430px!important;
+      height: 520!important;
+   }
+   .buyticket{
+      margin-top: 25rem;
+   }
+   .buy-ticket-img{
+      margin-top: -20rem;
+   }
+   
+  
+  
+   /********Start Footer******/
+   .f-foot{
+      margin-top: 30px!important;
+   }
+   .f-foot h4{
+      margin-bottom: -15px!important;
+   }
+   .footer-content{
+      margin-left: 0px!important;
+   }
+   .f-foot-r{
+      margin-left: -80px!important;
+   }
+   .app img{
+      width: 193px;
+      height: 57px;
+      margin-right: 15px!important;
+   }
+   .copyright{
+      margin-top: 40px!important;
+   } 
+   /*--------*********************-------------------- End About Us________________ ***/
+  /******************************************************************************/
+
+   /*______________________________________________________________________________________________________________*/
+
+   /*--------*********************--------------------Start Home________________ ***/
+   /******************************************************************************/
+
+   /***************************Start Header-center-Contant*********/
+   .name2 img{
+      width: 488px;
+      height: 526px;
+      margin-left: -20px!important;
+      position: absolute;
+      top: 15rem;
+      right: 20px;
+   }
+
+    /*************************** start Our-Responsive****/
+    .team img{
+      width: 90px;
+      height: 90px;
+      margin-left: 10px!important;
+      margin-right: 10px!important;
+   }
+  
+   /**************************** Start our-Responsive-contant2****/
+   .ground-img img{
+      width: 205px;
+      height: 240px;
+    }
+    .ground-img2 img{
+      width: 414px;
+      height: 240px;
+    }
+    .sec-game{
+      margin-left: -20px!important;
+      margin-top: 75px!important;
+    }
+    .sec i{
+      font-size: 30px;
+      padding: 15px;
+      margin-right: 20px;
+    }
+    .sec div{
+      margin-top: -30px;
+    }
+    .sec div span{
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .sec div p{
+      font-size: 15px;
+      margin-left: 94px;
+    }
+    .sec2 div{
+      margin-left: -50px;
+    }
+    /*** Start our-Responsive-contant****/
+    .game-image div img{
+      width: 205;
+      height: 240px;
+    }
+    .game-content h2{
+      font-size: 44px;
+      font-weight: 600;
+    }
+    .game-content i{
+      font-size: 20px;
+      border-radius: 100%;
+      padding: 20px;
+      margin-right: 20px;
+    }
+    .game-content span{
+      font-size: 22px;
+      font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+      font-weight: 600;
+    }
+    .game-content{
+      padding-left: 10px!important;
+     }
+    /*** Start Player***/
+    .player-img{
+      width: 450px!important;
+      height: 520px!important;
+      background-image: linear-gradient(190deg, #447d06 20%, #f0a30a 90%);
+      border-radius: 20px;
+     padding-left: 20px;
+     border-radius: 10px!important;
+     margin-top: 20px;
+    }
+    /****Start FOOTBALL NEWS***/
+   .img-ex{
+      width:455px;
+      height:420px;
+   }
+   .img-ex{
+      object-fit: cover;
+     }
+     .newsimg img{
+      width: 215px;
+      height: 200px;
+    }
+    .newsec{
+      margin-left: 0px!important;
+    }
+    /***** Start Match higlight***/
+    .match{
+      margin-top: 60px!important;
+    }
+
+    
+}  
+
+@media(min-width:768px) and (max-width:991.5px){
+   /*--------*********************--------------------About Us________________ ***/
+  /******************************************************************************/
+
+      /*******************************************start buy ticket ***/
+      .buy-ticket-img .bestman1{
+         position: absolute;
+         top: -460px;
+         left: 5px;
+         width: 370px!important;
+         height: 520!important;
+   
+       }
+      .buy-ticket-img .bestman2{
+         position: absolute;
+         top: -460px;
+         left: 190px;
+         width: 355!important;
+         height: 520!important;
+   
+      }
+      .buy-ticket-img .bestman3{
+         position: absolute;
+         top: -460px;
+         left: 325px;
+         width: 375px!important;
+         height: 520!important;
+      }
+      .buyticket{
+         margin-top: 25rem;
+      }
+      .buy-ticket-img{
+         margin-top: -20rem;
+      }
+   /*******************************Start Footer********/
+   .footer-content{
+      margin-top: 40px!important;
+   }
+   .f-foot{
+      margin-left: 0px!important;
+      margin-right: 0px!important;
+      
+   }
+   .f-foot i{
+      padding-right: 0px!important;
+      font-size: 12px;
+   }
+   .f-foot-r{
+     padding-left: 0px!important;
+   }
+   .f-foot a{
+      margin-top: 30px!important;
+      display: block;
+      color: #6c6c6c;
+      line-height: 1em;
+      font-size: 15px;
+      cursor: pointer;
+      transition: 0.3s ease;
+   }
+   .f-foot h4{
+      font-size: 20px!important;
+      font-family:Helvetica,Arial, sans-serif;/* font Titillium web*/
+   }
+   .f-foot-app{
+      margin-top: 37px!important;
+      margin-left: 66px!important;
+   }
+   /************************ start from******/
+
+   .from-icon{
+      color: orange;
+      font-size: 16px;
+      background-color: #ddd;
+      border-radius: 100%;
+      padding: 10px;
+   }
+   .from-hedding{
+      font-size: 40px;
+      margin-bottom: 20px!important;
+   }
+   /********************header-content******/
+   .a-herder-c-img{
+      margin-left: -35px!important;
+   }
+   .a-size-default span{
+      font-size: 50px!important;
+      line-height: 0px!important;
+   }
+   .game-image img{
+      width: 100% !important;
+   }
+   .game-content{
+      padding-left: 0px !important;
+      width: 100% !important;
+   }
+   /*--------*********************-------------------- End About Us________________ ***/
+  /******************************************************************************/
+
+
+   /*______________________________________________________________________________________________________________*/
+
+  /*--------*********************--------------------Start Home________________ ***/
+   /******************************************************************************/
+
+   /***************************Start Header-center-Contant*********/
+   .name2 img{
+      width: 375px;
+      height: 406px;
+      margin-left: -20px!important;
+      position: absolute;
+      top: 30rem;
+      right: 10px;
+   }
+   .center-contant-span span{
+      font-size: 53px!important;
+   }
+
+    /*************************** start Our-Responsive****/
+    .team img{
+      width: 70px;
+      height: 70px;
+      margin-left: 6px!important;
+      margin-right: 6px!important;
+   }
+    /********************* Start our-Responsive-contant****/
+    
+     /**************************** Start our-Responsive-contant2****/
+   .ground-img img{
+      width: 100%!important;
+      height: 260px;
+    }
+    .ground-img2 img{
+      width: 100%;
+      height: auto;
+    }
+    .sec-game{
+      margin-left: -20px!important;
+      margin-top: 75px!important;
+    }
+    .sec i{
+      font-size: 20px;
+      padding: 15px;
+      margin-right: 20px;
+      margin-top: 30px;
+    }
+    .sec div{
+      margin-top: -30px;
+    }
+    .sec div span{
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .sec div p{
+      font-size: 18px!important;
+      margin-left: 87px;
+    }
+    .sec2 div{
+      margin-left: -50px;
+    }
+    .sec2{
+      margin-top: 40px!important;
+    }
+     /**************************** Start Player*****************/
+     .player-img{
+      width: 340px!important;
+      height: 520px!important;
+      background-image: linear-gradient(190deg, #447d06 20%, #f0a30a 90%);
+      border-radius: 20px;
+     padding-left: 20px;
+     border-radius: 10px!important;
+     margin-top: 20px;
+    }
+    
+     /****************************************Start FOOTBALL NEWS***/
+   .img-ex{
+      width:360px;
+      height:420px;
+   }
+     .newsimg img{
+      width: 158px;
+      height: 200px;
+    }
+    .newsec{
+      margin-left: 70px!important;
+      margin-right: 0px!important;
+    }
+    .new-content1{
+      width: 360px;
+      height: 300px;
+    }
+    .newspan{
+      display: block;
+      margin-bottom: 20px!important;
+    }
+    /****Start header-bottom-content****/
+    .header-bottom-content div p{
+      margin-right: 0px!important;
+    }
+     .header-bottom-content{
+      padding: 20px 0px!important;
+   }
+   /**** start***/
+   .match{
+      margin-top: 60px!important;
+   }
+
+  
+}
+
+
+
+@media(min-width:576px) and (max-width:767px){
+   /*--------*********************--------------------About Us________________ ***/
+   /******************************************************************************/
+
+ /********************header-content******/
+  .a-herder-c-img{
+   margin-left: 165px!important;
+   margin-bottom: 40px!important;
+  }
+  .a-size-default span{
+   font-size: 40px!important;
+   line-height: 0px!important;
+ }
+ .a-herder-c-p{
+  text-align: center;
+  padding-left: 12rem!important;
+  padding-right: 12rem!important;
+
+ }
+ .from-hedding{
+   font-size: 40px;
+   margin-bottom: 75px!important;
+}
+ /*******************************************start buy ticket ***/
+
+.buyticket{
+   margin-top: 25rem;
+}
+.buy-ticket-img{
+   margin-top: -20rem;
+}
+
+.bestman{
+   position: relative;
+   margin-top: 40px!important;
+}
+.bestman-img{
+   position: absolute;
+   top:360px;
+}
+.bestman3{
+   width: 220px;
+   height: 330px;
+   position:absolute;
+   left:290px;
+   top:-37rem;
+
+}
+.bestman2{
+   width: 220px;
+   height: 330px;
+   position:absolute;
+   left: 150px;
+   top:-37rem;
+
+}
+.bestman1{
+   width: 220px;
+   height: 330px;   
+   position: absolute;
+   left: 1px;
+   top:-37rem;
+}
+.btn-ticket{
+   width: 100%;
+   margin-bottom: 10px;
+}
+.btn-schedules{
+   width: 100%;
+}
+
+/*********************Start Footer***********/
+.footer-content{
+   margin-bottom: 40px!important;
+}
+.f-foot{
+   margin-top: 40px!important;
+}
+.copyright{
+   text-align: center;
+   padding-left: 0px!important;
+}
+/*--------*********************-------------------- End About Us________________ ***/
+  /******************************************************************************/
+
+  
+
+   /*______________________________________________________________________________________________________________*/
+
+  /*--------*********************--------------------Start Home________________ ***/
+   /******************************************************************************/
+
+   /***************************Start Header-center-Contant*********/
+   .name2 img{
+      width: 576px;
+      height: 621px;
+      margin-left: -20px!important;
+      position: absolute;
+      top: 4rem;
+      right: 4px;
+   }
+   .name{
+      margin-top: 36rem;
+   }
+   
+    /*************************** start Our-Responsive****/
+    .team div img{
+      width: 105px!important;
+      height: 105px!important;
+      margin-top: 40px;
+   }
+     .game div img{
+      width: 260px;
+      height: 240px;
+    }
+    /**Start our-Responsive-contant***/
+    .game-content{
+      margin-left: 0px!important;
+      margin-top: 20px!important;
+    }
+    .game-content div p{
+      margin-left: 0px!important;
+      font-size: 20px!important;
+    }
+   /*************************** start our-Responsive-contant2****/
+    .sec-game{
+      margin-top: 40px;
+    }
+    .sec div span{
+      font-size: 22px;
+    }
+    .sec2{
+      margin-left: 0px!important;
+      padding-left: 0px!important;
+    }
+    
+    /*********************** Start Match higlight**********/
+    .match div img{
+      margin-top: 20px!important;
+    }
+     /**************************** Start Player*****************/
+     .player-img{
+      width: 500px!important;
+      height: 540px!important;
+      background-image: linear-gradient(190deg, #447d06 20%, #f0a30a 90%);
+      border-radius: 20px;
+     padding-left: 20px;
+     border-radius: 10px!important;
+     margin-top: 20px;
+    }
+     /****************************************Start FOOTBALL NEWS***/
+    .newsimg img{
+      width: 547px;
+      height: 200px;
+      margin-top: 30px!important;
+    }
+    
+
+
+}
+
+
+
+
+
+
+
+@media(min-width:320px) and (max-width: 576px){
+   /*--------*********************--------------------About Us________________ ***/
+  /******************************************************************************/
+
+   /*******************************************start buy ticket ***/
+   .buyticket{
+      margin-top: 15rem;
+      margin-left: 0px;
+      padding: 40px 10px;
+   }   
+  
+   .buyticket h2{
+      font-size: 43px!important;
+
+   }
+   .buyticket{
+      font-size: 14px;
+   }
+   .bestman{
+      position: relative;
+      margin-top: 30px!important;
+   }
+   .bestman-img{
+      position: absolute;
+      top:180px;
+   }
+   .bestman3{
+      width: 150px;
+      height: 200px;  
+      position:absolute;
+      left:150px;
+      top: -46rem;
+
+   }
+   .bestman2{
+      width: 150px;
+      height: 200px;  
+      position:absolute;
+      left: 93px;
+      top: -46rem;
+   }
+   .bestman1{
+      width: 150px;
+      height: 200px;   
+      position: absolute;
+      left: 1px;
+      top: -46rem;
+
+   }
+   .btn-ticket{
+      width: 100%;
+      margin-bottom: 10px;
+   }
+   .btn-schedules{
+      width: 100%;
+   }
+   
+   /******** Start Copy Right ***/
+   .copyright a{
+      text-decoration: none;
+      font-weight: 700;
+      color: #fff;
+      font-size: 14px;
+      font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+      border-right: 1px solid white;
+   }
+   .copyright{
+      margin-top: 0px!important;
+   }
+
+  
+   /**************Start header-content*************/
+   .a-size-default{
+      font-size: 40px;
+      margin-left: -29px;
+   }
+   .a-herder-c-p{
+      margin-left: -54px ;
+   }
+   .a-herder-c-img{
+      margin-left: 0px!important;
+   }
+   .a-herder-c-p{
+      text-align: center;
+      padding-left: 4rem!important;
+      padding-right: 4rem!important;
+      margin-left: -31px;
+    
+     }
+     .from-hedding{
+      font-size: 40px;
+      margin-bottom: 75px!important;
+   }
+   /************************ start from******/
+   .from-p{
+      font-size: 14px;
+   }
+   .from-span{
+      font-size: 14px;
+   }
+   .from-icon{
+      color: orange;
+      font-size: 16px;
+      background-color: #ddd;
+      border-radius: 100%;
+      padding: 10px;
+   }
+   /********************** start Footer******/
+   .f-foot{
+      margin-top: 20px!important;
+   }
+   .f-foot p{
+      font-size: 20px!important;
+   }
+   .app img{
+      width: 140px;
+      height: 45px;
+      margin-right: 15px!important;
+      margin-bottom: 20px!important;
+   }
+   .footer-content{
+      margin-top: 20px!important;
+      
+   }
+   /***Start Copy Right**/
+
+   .copy-right2 span{
+      font-size: 16px;
+
+   }
+   .copyright{
+      padding-left: 0px!important;
+   }
+
+   /*--------*********************-------------------- End About Us________________ ***/
+  /******************************************************************************/
+
+
+  
+   /*______________________________________________________________________________________________________________*/
+
+  /*--------*********************--------------------Start Home________________ ***/
+   /******************************************************************************/
+
+   /***************************Start Header-center-Contant*********/
+   .name2 img{
+      width: 320px;
+      height: 345px;
+      margin-left: -20px!important;
+      position: absolute;
+      top: 6rem;
+      right: 4px;
+   }
+   .header-center-Contant{
+      margin-top: 19rem;
+   }
+   .btn-ticket{
+      width: 100%;
+      margin-bottom: 10px;
+   }
+   .btn-schedules{
+      width: 100%;
+   }
+
+   /*********start***/
+   .header-bottom-content{
+      padding: 0px 0px!important;
+   }
+  
+   
+    /*************************** start Our-Responsive****/
+    .team img{
+      width: 60px!important;
+      height: 60px!important;
+      margin-top:0px!important;
+      margin-left: 10px!important;
+   }
+   .Our-Responsive h3{
+      font-size: 30px;
+   }
+   .team{
+      margin-top: 0px!important;
+   }
+   /***our-Responsive-contant**/
+   .game-image div img{
+      width: 141px;
+      height: 240px;
+    }
+    .game-content{
+      margin-top: 20px!important;
+      padding-left: 10px !important;
+    }
+    .game-content h2{
+      font-size: 40px;
+      padding-left: 0px !important;
+    }
+    .game-content i{
+      font-size: 16px;
+      border-radius: 100%;
+      padding: 16px;
+      margin-right: 25px;
+      margin-left: 0px!important;
+    }
+    .game-content span{
+      font-size: 14px;
+      font-family:Helvetica,Arial, sans-serif;/* font Raleway*/
+      font-weight: 600;
+    }
+    .game-content p{
+      font-size: 18px!important;
+      padding-left: 0px !important;
+    }
+    .game-content div p{
+      font-size: 16px !important;
+      padding-left: 70px !important;
+      margin-left: 0px!important;
+    }
+    .our-Responsive-contant{
+      margin-top: 20px!important;
+    }
+   
+    /*************************** start our-Responsive-contant2****/
+    .sec-game{
+      margin-top: 40px;
+    }
+    .sec h2{
+      font-size: 40px!important;
+    }
+    .sec div span{
+      font-size: 14px;
+    }
+    .sec div p{
+      margin-left: 67px!important;
+      font-size: 16px!important;
+    }
+    
+    .sec div i{
+      font-size: 16px;
+      padding: 16px;
+      margin-right: 9px!important;
+    }
+    .ground-img img{
+      width: 145px!important;
+      height: 240px!important;
+    }
+    .ground-img2 img{
+      width: 288px!important;
+      height: 240px!important;
+      object-fit: cover;
+    }
+    .sec2{
+      margin-left: -10px!important;
+      padding-left: 20px;
+    }
+    .our-Responsive-contant2{
+      margin-top: 20px!important;
+    }
+    /*********************** Start Match higlight**********/
+    .match div img{
+      margin-top: 20px!important;
+    }
+    .match{
+      margin-top: 40px!important;
+    }
+    .match h2{
+      margin-bottom: 0px!important;
+    }
+    /************************ start players**/
+    .player-img{
+      margin-top: 20px!important;
+      width:100%;
+      height:auto;
+    }
+    .player h2{
+      margin-bottom: 0px!important;
+    }
+     /****************************************Start FOOTBALL NEWS***/
+     .newsimg img{
+      width: 292px;
+      height: 200px;
+      margin-top: 30px!important;
+    }
+    .img-ex{
+      width: 292px;
+      height: 420px;
+    }
+   
+    .new-content1{
+      width: 292px;
+      height: 300px;
+    }
+    .newspan{
+      display: block;
+      margin-bottom: 20px!important;
+    }
+    .news h2{
+      margin-bottom: 10px!important;
+    }
+   
+    
+} 
